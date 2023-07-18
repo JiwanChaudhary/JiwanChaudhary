@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on being better than I was yesterday.
 - 🌱 I’m continuously learning. 
-- 💬 Ask me about **JavaScript, Node.js, React.js, Next.js, IoT, SQL**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, React.js, Next.js, Express.js, IoT, SQL**
 - 📫 How to reach me: **jeewanchaudhary6@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
